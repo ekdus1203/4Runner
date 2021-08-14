@@ -53,13 +53,13 @@
     <UnityVersion>2020.3.13f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\HongDaYeon\06.Res\Particle Dissolve Shader by Moonflower Carnivore\Shaders\unity5\Editor\Shader_softrim_dissolve.cs" />
     <Compile Include="Assets\James\06.Res\StarterAssets\Editor\ScriptingDefineUtils.cs" />
     <Compile Include="Assets\James\06.Res\StarterAssets\Editor\ThirdPersonStarterAssetsDeployMenu.cs" />
     <Compile Include="Assets\James\06.Res\StarterAssets\Editor\StarterAssetsDeployMenu.cs" />
+    <Compile Include="Assets\HongDaYeon\06.Res\Particle Dissolve Shader by Moonflower Carnivore\Shaders\unity5\Editor\CustomMaterialEditor.cs" />
     <Compile Include="Assets\James\06.Res\StarterAssets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
     <Compile Include="Assets\James\06.Res\StarterAssets\Editor\PackageChecker\PackageChecker.cs" />
-    <Compile Include="Assets\HongDaYeon\06.Res\Particle Dissolve Shader by Moonflower Carnivore\Shaders\unity5\Editor\Shader_softrim_dissolve.cs" />
-    <Compile Include="Assets\HongDaYeon\06.Res\Particle Dissolve Shader by Moonflower Carnivore\Shaders\unity5\Editor\CustomMaterialEditor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\James\06.Res\StarterAssets\Editor\PackageChecker\PackageImportList.txt" />

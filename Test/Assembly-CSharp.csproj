@@ -54,6 +54,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\KimDoHyeong\Res\Particle Ribbon by Moonflower Carnivore\Scripts\randomParticleRotation.cs" />
+    <Compile Include="Assets\HongDaYeon\02.Scripts\csRaycastBullet.cs" />
     <Compile Include="Assets\James\02.Scripts\csColiisionCheck.cs" />
     <Compile Include="Assets\csFireCube.cs" />
     <Compile Include="Assets\Test.cs" />
@@ -67,10 +68,10 @@
     <Compile Include="Assets\KimDoHyeong\Res\Particle Ribbon by Moonflower Carnivore\Scripts\rotation.cs" />
     <Compile Include="Assets\James\02.Scripts\csKinematicCheck.cs" />
     <Compile Include="Assets\HongDaYeon\06.Res\Particle Dissolve Shader by Moonflower Carnivore\Scripts\PDS_GameController.cs" />
+    <Compile Include="Assets\HongDaYeon\02.Scripts\csWallTrigger.cs" />
     <Compile Include="Assets\HongDaYeon\02.Scripts\csCapsuleMove.cs" />
     <Compile Include="Assets\James\06.Res\StarterAssets\ThirdPersonController\Scripts\BasicRigidBodyPush.cs" />
     <Compile Include="Assets\James\06.Res\StarterAssets\TutorialInfo\Scripts\Readme.cs" />
-    <Compile Include="Assets\HongDaYeon\02.Scripts\csCollisionCheck.cs" />
     <Compile Include="Assets\James\02.Scripts\csTriggerCheck.cs" />
     <Compile Include="Assets\HongDaYeon\02.Scripts\csParticleEffect.cs" />
     <Compile Include="Assets\James\02.Scripts\csRaycast.cs" />
@@ -79,20 +80,18 @@
     <Compile Include="Assets\James\06.Res\StarterAssets\Mobile\Scripts\Utilities\MobileDisableAutoSwitchControls.cs" />
     <Compile Include="Assets\KimDoHyeong\Scripts\csParticle.cs" />
     <Compile Include="Assets\James\06.Res\StarterAssets\ThirdPersonController\Scripts\ThirdPersonController.cs" />
+    <Compile Include="Assets\HongDaYeon\02.Scripts\csBullet1.cs" />
     <Compile Include="Assets\KimDoHyeong\Res\Particle Ribbon by Moonflower Carnivore\Scripts\ReverseNormals.cs" />
     <Compile Include="Assets\KimDoHyeong\Scripts\csCameraMove.cs" />
     <Compile Include="Assets\James\02.Scripts\csLaser.cs" />
     <Compile Include="Assets\James\06.Res\EffectExamples\Misc Effects\Scripts\SpawnEffect.cs" />
     <Compile Include="Assets\HongDaYeon\06.Res\Particle Dissolve Shader by Moonflower Carnivore\Scripts\ScrollingUVs_PDS.cs" />
+    <Compile Include="Assets\HongDaYeon\02.Scripts\csShotBullet.cs" />
     <Compile Include="Assets\KimDoHyeong\Scripts\csRacast.cs" />
     <Compile Include="Assets\KimDoHyeong\Scripts\csCollision.cs" />
+    <Compile Include="Assets\HongDaYeon\02.Scripts\csWallCollision.cs" />
     <Compile Include="Assets\HongDaYeon\02.Scripts\csMainCamera.cs" />
     <Compile Include="Assets\KimDoHyeong\Scripts\csMoveCube.cs" />
-    <Compile Include="Assets\HongDaYeon\02.Scripts\csRaycastBullet.cs" />
-    <Compile Include="Assets\HongDaYeon\02.Scripts\csShotBullet.cs" />
-    <Compile Include="Assets\HongDaYeon\02.Scripts\csBullet1.cs" />
-    <Compile Include="Assets\HongDaYeon\02.Scripts\csWallCollision.cs" />
-    <Compile Include="Assets\HongDaYeon\02.Scripts\csWallTrigger.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\HongDaYeon\06.Res\Particle Dissolve Shader by Moonflower Carnivore\Shaders\legacy\DissolveSoft_Alpha_Additive_softrim.shader" />

@@ -12,9 +12,9 @@ public class csBullet1 : MonoBehaviour
         Destroy(gameObject,2f);
     }
 
-    private void OnCollisionEnter(Collision collision)
+   /* private void OnCollisionEnter(Collision collision)
     {
         Object ParticlePoint = Instantiate(Particle, transform.position, transform.rotation);
         Destroy(ParticlePoint, 1f);
-    }
+    }*/
 }
